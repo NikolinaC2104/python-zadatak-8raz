@@ -62,25 +62,3 @@ Jupyter Notebook sadrži:
 12. cjelovito programsko rješenje
 13. zaključak
 
-## Primjer izvođenja programa
-
-Primjer unosa:
-
-```
-72
-88
-65
-91
-77
-```
-Očekivani rezultat:
-```
-Rezultati od najvećeg prema najmanjem:
-91
-88
-77
-72
-65
-
-Najbolji rezultat je 91 bod.
-```
